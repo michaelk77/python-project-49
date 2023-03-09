@@ -1,8 +1,6 @@
 import random
 from brain_games.scripts.logic import play_game
 
-GAME_DESCRIPTION = "Find the greatest common divisor of given numbers."
-
 
 def gcd(a, b):
     if b == 0:
@@ -19,7 +17,8 @@ def generate_question():
 
 
 def main():
-    play_game(generate_question, GAME_DESCRIPTION)
+    play_game(generate_question,
+              "Find the greatest common divisor of given numbers.")
 
 
 if __name__ == '__main__':

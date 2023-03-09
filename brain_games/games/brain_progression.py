@@ -2,8 +2,6 @@ import random
 
 from brain_games.scripts.logic import play_game
 
-GAME_DESCRIPTION = 'What number is missing in the progression?'
-
 
 def generate_question():
     length = random.randint(5, 10)
@@ -18,7 +16,7 @@ def generate_question():
 
 
 def main():
-    play_game(generate_question, GAME_DESCRIPTION)
+    play_game(generate_question, "What number is missing in the progression?")
 
 
 if __name__ == '__main__':
