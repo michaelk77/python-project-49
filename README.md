@@ -5,6 +5,9 @@
 installation video
 https://asciinema.org/a/X9WB1POe5fHKJmO0xCFZT3HFA
 
+evan-game video
+https://asciinema.org/a/VeGUXC6JHzyMKTXeXsmwS1ELW
+
 calc-game video
 https://asciinema.org/a/VpxYl1MqsIW5auQaA6Chl4ORq
 
