@@ -7,3 +7,6 @@ https://asciinema.org/a/X9WB1POe5fHKJmO0xCFZT3HFA
 
 calc-game video
 https://asciinema.org/a/VpxYl1MqsIW5auQaA6Chl4ORq
+
+gcd-game video
+https://asciinema.org/a/wQHqFzPDLp9igcYL2MOeUoxr7
