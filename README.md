@@ -16,3 +16,7 @@ https://asciinema.org/a/wQHqFzPDLp9igcYL2MOeUoxr7
 
 progression-game video
 https://asciinema.org/a/RBci8xY0dBwYjsuuwyQSXd2U7
+
+prime-game video
+https://asciinema.org/a/CcnGChUiPnX8R3KUKqVlzwZe8
+
